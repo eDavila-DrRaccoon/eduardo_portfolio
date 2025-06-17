@@ -1,6 +1,6 @@
 # Eduardo Dávila's Professional Portfolio
 
-**Ph.D. in Science in Electrical Engineering** | AI/ML · Computer Vision · Embedded Systems · ROS | Engineer · Researcher · Educator
+Ph.D. in Science in Electrical Engineering | AI/ML · Computer Vision · Embedded Systems · ROS | Engineer · Researcher · Educator
 
 ## 📬 Contact Me
 - **Email**: [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
