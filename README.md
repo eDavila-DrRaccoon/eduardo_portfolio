@@ -1,4 +1,4 @@
-# Eduardo Dávila's Professional Portfolio
+# Eduardo de Jesús Dávila Meza — Professional Portfolio
 
 Ph.D. in Science in Electrical Engineering | AI/ML · Computer Vision · Embedded Systems · ROS | Engineer · Researcher · Educator
 
