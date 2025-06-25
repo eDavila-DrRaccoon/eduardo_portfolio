@@ -39,7 +39,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 **Role:** Robot Programming Professor – ROS 2 • March - June 2025 • Zapopan, Jalisco, Mexico
    - **Description:** Led a course on ROS 2 (Robot Operating System) for students in Robotics and Intelligent Systems Engineering, focusing on software development for a differential drive robot. Achieved a 100% satisfaction rate.
    - 💎 **Skills:** C++ · Python · ROS 2 · Technical instruction · Computer science · Code debugging
-   - [Project Folder](https://edavila-drraccoon.github.io/repo_ros2_course/)
+   - [See repository](https://edavila-drraccoon.github.io/repo_ros2_course/)
 
 ### Tecnológico de Monterrey, Guadalajara Campus
 **Role:** Robot Programming Professor – ROS • April - July 2024 • Zapopan, Jalisco, Mexico
