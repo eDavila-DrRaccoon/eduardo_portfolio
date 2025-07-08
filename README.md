@@ -64,7 +64,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
   - **Description:** Part of an international project with University Eye Hospitals from Germany, focusing on deep learning for recognizing and quantifying fundus pathologies in medical images using instance segmentation. This involved the full AI/ML lifecycle management, from data preprocessing and augmentation to model training and validation, using a Mask R-CNN model with TensorFlow and Keras. Visualization techniques for evaluation included confusion matrices and precision-recall curves.
   - 💎 **Skills:** Mask R-CNN · TensorFlow · Keras · Data augmentation · Data visualization
 
-### Intelligent Visual Guide System (OJO SMART) – Assistive Device Development
+### Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation System
 **Role:** Computer Vision & ROS Developer • December 2019 - October 2023 • Zapopan, Jalisco, Mexico
   - **Description:** Collaborated on the development of OJO SMART, a modular assistive visual navigation device designed to enhance safety and independence for users with visual impairments in daily environments. My role focused on building ROS nodes in C++ and Python for core functionalities, including 1) **color recognition** using semantic segmentation and clustering techniques with OpenCV, 2) **detection and classification of civil protection signs** using Haar cascades and CNNs using OpenCV and TensorFlow for C++, 3) **currency recognition preprocessing** for MXN, USD, and EUR banknotes with YOLOv3, and 4) **text detection and extraction** using classical OpenCV and OCR techniques.
   - 💎 **Skills:** ROS · OpenCV · TensorFlow · C++ · Python · OCR
