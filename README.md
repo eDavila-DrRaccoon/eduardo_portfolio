@@ -11,23 +11,35 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 [Download CV (PDF)](./EduardoDavila_CV_EN_2025.pdf)
 
 ## 👋🏽 About Me
-I am Eduardo Dávila, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, I specialize in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems..
+I am Eduardo Dávila Meza, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, specialized in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems. Whether developing instance segmentation models for medical imaging or building ROS-based assistive devices, I bring clarity, precision, and efficiency to every layer of the process.
+
+My expertise spans from deep learning models like Mask R-CNN and Swin Transformers to hands-on implementation in C++, Python, OpenCV, TensorFlow, and Keras. I’ve led projects that range from fundus pathology detection in collaboration with German university hospitals, to the creation of OJO SMART, a vision-based assistive technology for visually impaired people, developing ROS nodes for object, color, and text recognition.
+
+In addition to my research, I have co-authored a paper in IEEE Access on low-light color enhancement using quaternion neural networks and co-invented a patent for underactuated control systems. My leadership in the CUValles Technology Development Club resulted in innovative, sustainability-focused embedded system designs, including a patent-pending prototype for wastewater treatment in the tequila industry.
+
+Recognized for my ability to communicate complex ideas, I have served as a professor at the Monterrey Institute of Technology, where I achieved a 96% satisfaction rate teaching ROS and ROS 2 for robotics. I thrive in interdisciplinary teams, value clean and documented code, and always test edge cases.
+
+Fluent in both technical English and Spanish, I’m motivated, self-taught, and passionate about contributing to impactful solutions in roles such as AI/ML Engineer, Computer Vision Specialist, or Robotics and Embedded Systems Developer. I bring research to life through elegant, efficient, and human-centered engineering.
 
 ## 🛠️ Skills and Tools
-**Top skills:** Artificial intelligence • Machine Learning • Computer vision • Programming • Embedded systems
+**Top skills:** Artificial intelligence • Machine Learning • Computer vision • Programming • Embedded systems • ROS
 
 **Technical Skills:**
 - **Operating systems:** Linux (Ubuntu), Windows
-- **Programming languages:** Python, C++, MATLAB, Arduino, MPLAB (XC8)
-- **Development tools:** VS Code, Jupyter Notebook, Git, GitHub
+- **Programming languages:** Python, C++, SQL, MATLAB, MPLAB (XC8), Arduino
 - **Libraries and frameworks:**
     - (C++ and Python): OpenCV, TensorFlow, ROS & ROS 2
-    - (Python): Keras, Matplotlib, NumPy, Pandas, PIL, Scikit-learn, JSON
+    - (Python): JSON, Keras, Matplotlib, NumPy, Pandas, PIL, Scikit-learn, Seaborn, Tkinter
+- **Development tools:** VS Code, Jupyter Notebook, Git, GitHub
 - **Embedded systems tools:** SOLIDWORKS, PROTEUS, LabVIEW
 - **Document preparation and office tools:** LaTeX, Markdown, MS Office, Dia (diagram editor)
 
 **Soft Skills:**
 Self-taught • Goal-oriented • Proactive • Teamwork • Communication • Positive attitude • Responsible • Customer Support
+
+**Languages:**
+- **Spanish:** Native • full professional proficiency.
+- **English:** B2 (Advanced) • fluent in reading, writing, and technical comprehension; intermediate spoken; proficient for research publications, documentation, and international collaboration. Certified by Cinvestav, Guadalajara Campus, Feb. 2023.
 
 ## 📖 Work Experience & 🚀 Projects
 <!-- ### [Project Title 1](link-to-project1-folder-or-demo)
@@ -43,36 +55,52 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 
 ### Tecnológico de Monterrey, Guadalajara Campus
 **Role:** Robot Programming Professor – ROS • April - July 2024 • Zapopan, Jalisco, Mexico
-   - **Description:** Led a course on ROS (Robot Operating System) for students in Robotics and Intelligent Systems Engineering, focusing on software development for a differential drive robot. Achieved a 96% satisfaction rate, achieving a recognition as a top-rated professor.
+   - **Description:** Led a course on ROS (Robot Operating System) for students in Robotics and Intelligent Systems Engineering, focusing on software development for a differential drive robot. Achieved a 96% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
    - 💎 **Skills:** C++ · Python · ROS · Technical instruction · Computer science · Code debugging
    <!-- - [Projects Folder](https://edavila-drraccoon.github.io/repo_ros2_course/) -->
 
-### Recognition of Fundus Pathologies
+### Recognition of Fundus Pathologies – Medical Image Segmentation
 **Role:** AI/ML Engineer • May 2021 - July 2024 • Zapopan, Jalisco, Mexico
-  - **Description:** Part of an international project with University Eye Hospitals in Germany, focusing on deep learning for recognizing and quantifying fundus pathologies in medical images using instance segmentation. This involved full AI/ML lifecycle management, from data preprocessing and augmentation to model training and evaluation, using Mask R-CNN with TensorFlow and Keras. Visualization techniques for evaluation included confusion matrices and precision-recall curves.
+  - **Description:** Part of an international project with University Eye Hospitals from Germany, focusing on deep learning for recognizing and quantifying fundus pathologies in medical images using instance segmentation. This involved the full AI/ML lifecycle management, from data preprocessing and augmentation to model training and validation, using a Mask R-CNN model with TensorFlow and Keras. Visualization techniques for evaluation included confusion matrices and precision-recall curves.
   - 💎 **Skills:** Mask R-CNN · TensorFlow · Keras · Data augmentation · Data visualization
 
-### Intelligent Visual Guide System (OJO SMART)
+### Intelligent Visual Guide System (OJO SMART) – Assistive Device Development
 **Role:** Computer Vision & ROS Developer • December 2019 - October 2023 • Zapopan, Jalisco, Mexico
-  - **Description:** Collaborated on developing OJO SMART, an assistive visual device for visually impaired users, enhancing safety and independence in daily tasks. My role involved creating ROS nodes using C++ and Python for core functionalities, including 1) color recognition through semantic segmentation and clustering using OpenCV, 2) detection and classification of civil protection signs using Haar cascades and CNNs using OpenCV and TensorFlow for C++, 3) data preprocessing for MXN, USD, and EUR banknote recognition with YOLOv3, and 4) text detection and extraction using OpenCV and OCR.
+  - **Description:** Collaborated on the development of OJO SMART, a modular assistive visual navigation device designed to enhance safety and independence for users with visual impairments in daily environments. My role focused on building ROS nodes in C++ and Python for core functionalities, including 1) **color recognition** using semantic segmentation and clustering techniques with OpenCV, 2) **detection and classification of civil protection signs** using Haar cascades and CNNs using OpenCV and TensorFlow for C++, 3) **currency recognition preprocessing** for MXN, USD, and EUR banknotes with YOLOv3, and 4) **text detection and extraction** using classical OpenCV and OCR techniques.
   - 💎 **Skills:** ROS · OpenCV · TensorFlow · C++ · Python · OCR
 
 ### Cinvestav, Guadalajara Campus
-**Role:** Graduate Teaching Assistant • September - December 2022 • Zapopan, Jalisco, Mexico
+**Role:** Graduate Teaching Assistant – Computer Vision and AI • September - December 2022 • Zapopan, Jalisco, Mexico
    - **Description:** Assisted in a graduate-level course on Computer Vision and Artificial Intelligence, focusing on artificial neural networks, convolutional networks, and deep learning. Provided support to master’s and PhD students in programming neural network models in MATLAB and Python using libraries such as TensorFlow, NumPy, OpenCV, and Matplotlib.
    - 💎 **Skills:** Python · TensorFlow · OpenCV · MATLAB · Problem solving · Code debugging
 
-### CUValles Technology Development Club
+### CUValles Technology Development Club – Sustainability & Automation Prototypes
 **Role:** Lead Embedded Developer • July 2016 - May 2017 • Zapopan, Jalisco, Mexico
-  - **Description:** Served as president of a student tech club at CUValles, overseeing mechatronic and electronic projects. Led workshops on embedded systems, guiding students in developing innovative systems, including patent-pending prototypes for underactuated control and environmental sustainability in tequila production. Initiated prototype development for embedded systems in sustainable practices, such as wastewater treatment and automated waste separation.
+  - **Description:** Served as leader of a student tech club at CUValles, overseeing mechatronic and electronic projects. Led workshops on embedded systems, guiding students in developing innovative systems, including patent-pending prototypes for control theory and environmental sustainability, such as wastewater treatment and automated waste separation in tequila production.
   - 💎 **Skills:** Embedded Systems · Signal Processing · Leadership · Prototyping · Patents
 
 ### CUValles, University of Guadalajara
 **Role:** PIC Workshop advisor – PIC Microcontroller Programming • August - December 2016 • Ameca, Jalisco, Mexico
-   - **Description:** Conducted training workshops in “basic” and “advanced” programming for PIC microcontrollers using C (XC8) language for Bachelor students.
+   - **Description:** Conducted workshops on basic and advanced PIC microcontroller programming in C (XC8) using MPLAB, guiding Bachelor students in circuit prototyping and debugging in both real and simulated environments
    - 💎 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
 
 <!-- For more, check out the [Projects Folder](link-to-projects-folder). -->
+## 🎓 Academic Degrees:
+
+### Ph.D. in Science in Electrical Engineering — AI/ML
+September 2, 2019 - May 17, 2024 • Cinvestav, Guadalajara Campus • Zapopan, Jalisco, Mexico
+   - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
+   - 💎 **Skills:** SciComm · Research · Mask R-CNN · Medical image analysis · AI/ML lifecycle
+
+### M.Sc. in Electrical Engineering — AI/ANNs
+September 4, 2017 - August 2, 2019 • Cinvestav, Guadalajara Campus • Zapopan, Jalisco, Mexico
+   - **Thesis:** Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system.
+   - 💎 **Skills:** SciComm · Research · AI/ANNs · Robotics · Control theory
+
+### B.Eng. in Mechatronics — Embedded Systems
+August 1, 2012 - December 16, 2016 • CUValles, University of Guadalajara • Ameca, Jalisco, Mexico
+   - **Social service & Professional Internship:** Assistance and development of electronic and mechatronic projects in the electronics and telecommunications laboratory.
+   - 💎 **Skills:** Embedded systems · Programming · Digital electronics · HMI · Control theory
 
 ## 📜 Certifications
 <!-- - [name](link_to_certification) -->
