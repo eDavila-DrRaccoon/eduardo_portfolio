@@ -81,7 +81,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 
 ### CUValles, University of Guadalajara
 **Role:** PIC Workshop advisor – PIC Microcontroller Programming • August - December 2016 • Ameca, Jalisco, Mexico
-   - **Description:** Conducted workshops on basic and advanced PIC microcontroller programming in C (XC8) using MPLAB, guiding Bachelor students in circuit prototyping and debugging in both real and simulated environments
+   - **Description:** Conducted workshops on basic and advanced PIC microcontroller programming in C (XC8) using MPLAB, guiding Bachelor students in circuit prototyping and debugging in both real and simulated environments.
    - 💎 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
 
 <!-- For more, check out the [Projects Folder](link-to-projects-folder). -->
@@ -101,6 +101,20 @@ September 4, 2017 - August 2, 2019 • Cinvestav, Guadalajara Campus • Zapopan
 August 1, 2012 - December 16, 2016 • CUValles, University of Guadalajara • Ameca, Jalisco, Mexico
    - **Social service & Professional Internship:** Assistance and development of electronic and mechatronic projects in the electronics and telecommunications laboratory.
    - 💎 **Skills:** Embedded systems · Programming · Digital electronics · HMI · Control theory
+
+
+## 📚 Publications and Patents
+<!-- - [Title of Paper 1](link-to-publication) -->
+<!-- - [Patent Title](link-to-patent) -->
+- Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented in Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • https://iovs.arvojournals.org/article.aspx?articleid=2794864 
+    - 💎 **Skills:** Mask R-CNN · Image analysis · ML lifecycle · Feature extraction · Research
+
+- Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • in IEEE Access • vol. 11 • pp. 108257-108280 • Doi: https://www.doi.org/10.1109/ACCESS.2023.3312234 
+    - 💎 **Skills:** AI/ANNs · Image color analysis · Quaternion algebras · Color spaces · EKF
+
+- 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
+    - 💎 **Skills:** Embedded systems · Control theory · PICs · SPI · Power and digital electronics
+
 
 ## 📜 Certifications
 <!-- - [name](link_to_certification) -->
@@ -154,16 +168,3 @@ August 1, 2012 - December 16, 2016 • CUValles, University of Guadalajara • A
    
 - [**TensorFlow: Working with Natural Language Processing (NLP)**](https://www.linkedin.com/learning/certificates/a5a4b8df1d4ef7631f1e22c5353c05725baa443d72964ab402a2c8c9657852fb) • LinkedIn • Oct. 18, 2024
    - **Description:** Learn to work with transformers in NLP using TensorFlow 2.0. This course covers essential deep learning concepts for NLP, offering hands-on practice, challenges, and assessments to help reinforce your learning.
-
-
-## 📚 Publications and Patents
-<!-- - [Title of Paper 1](link-to-publication) -->
-<!-- - [Patent Title](link-to-patent) -->
-- Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented in Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • https://iovs.arvojournals.org/article.aspx?articleid=2794864 
-    - 💎 **Skills:** Mask R-CNN · Image analysis · ML lifecycle · Feature extraction · Research
-
-- Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • in IEEE Access • vol. 11 • pp. 108257-108280 • Doi: https://www.doi.org/10.1109/ACCESS.2023.3312234 
-    - 💎 **Skills:** AI/ANNs · Image color analysis · Quaternion algebras · Color spaces · EKF
-
-- 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
-    - 💎 **Skills:** Embedded systems · Control theory · PICs · SPI · Power and digital electronics
