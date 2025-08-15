@@ -1,6 +1,6 @@
 # Site Configuration
 title: Eduardo de Jesús Dávila Meza — Professional Portfolio
-description: "AI/ML · Computer Vision · Embedded Systems · ROS | Engineer · Researcher · Educator | Ph.D. in Science in Electrical Engineering"
+description: "AI/ML · Computer Vision · Embedded Systems · ROS/ROS2 | Engineer · Researcher · Educator | Ph.D. in Science in Electrical Engineering"
 
 author:
   name: Eduardo Dávila
@@ -10,7 +10,9 @@ author:
 # theme: jekyll-theme-cayman
 # or
 remote_theme:  pages-themes/cayman@v0.2.0
-show_downloads: true
+
+# Display/hide the download buttons (Download .zip, .tar.gz)
+show_downloads: false
 google_analytics:
 
 # Other options
