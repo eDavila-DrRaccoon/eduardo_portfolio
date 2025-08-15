@@ -8,7 +8,7 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 - **HackerRank**: [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
 ## 📄 Download My CV
-[Download CV (PDF)](./EduardoDavila_CV_EN_2025.pdf)
+[Download CV (PDF)](./EduardoDavila_sCV_EN_2025.pdf)
 
 ## 👋🏽 About Me
 I am Eduardo Dávila Meza, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, specialized in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems. Whether developing instance segmentation models for medical imaging or building ROS-based assistive devices, I bring clarity, precision, and efficiency to every layer of the process.
