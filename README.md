@@ -55,9 +55,9 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 
 ### Tecnológico de Monterrey, Guadalajara Campus
 **Role:** *Programming Professor – ROS/ROS2 & Python* | April 2024 – Present | Zapopan, Jalisco, Mexico
-   - **Description:** Led courses on ROS/ROS2 (Robot Operating System) with Python and C++ for differential drive robots, as well as a course on Python fundamentals. Achieved a 96% and 100% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
+   - **Description:** Leading courses on ROS/ROS2 (Robot Operating System) with Python and C++ for differential drive robots, as well as a course on Python fundamentals. Achieved a 96% and 100% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
    <!-- Leading a course on programming covering Python Fundamentals, including data types and operators, lists, control structures, functions, file handling, and basic GUI development. -->
-   - 💎 **Skills:** Python · C++ · ROS/ROS2 · Code debugging · Computer science · Software development · Technical instruction
+   - 💎 **Skills:** C++ · Python · ROS/ROS2 · Code debugging · Computer science · Software development · Technical instruction
    <!-- Python · Technical instruction · Computer science · Code debugging -->
    - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
    - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
