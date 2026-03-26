@@ -5,6 +5,7 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 ## 📬 Contact Me
 - **Email**: [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
 - **LinkedIn**: [EduardoDavilaMeza](https://www.linkedin.com/in/eduardodavilameza/)
+- **GitHub**: [eDavila-DrRaccoon](https://github.com/eDavila-DrRaccoon)
 - **HackerRank**: [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
 ## 📄 Download My CV
