@@ -4,20 +4,20 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 
 ## 📬 Contact Me
 - **Email**: [eduardodavila94@hotmail.com](mailto:eduardodavila94@hotmail.com)
-- **LinkedIn**: [EduardoDavila-AI](https://www.linkedin.com/in/eduardodavila-ai/)
+- **LinkedIn**: [EduardoDavilaMeza](https://www.linkedin.com/in/eduardodavilameza/)
 - **HackerRank**: [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
 ## 📄 Download My CV
 [Download CV (PDF)](./EduardoDavila_sCV_EN_2026.pdf)
 
 ## 👋🏽 About Me
-I am Eduardo Dávila Meza, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, specialized in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems. Whether developing instance segmentation models for medical imaging or building ROS-based assistive devices, I bring clarity, precision, and efficiency to every layer of the process.
+I am Eduardo Dávila Meza, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, specialized in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS/ROS2. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems. Whether developing instance segmentation models for medical imaging or building ROS-based assistive devices, I bring clarity, precision, and efficiency to every layer of the process.
 
-My expertise spans from deep learning models like Mask R-CNN and Swin Transformers to hands-on implementation in C++, Python, OpenCV, TensorFlow, and Keras. I’ve led projects that range from fundus pathology detection in collaboration with German university hospitals, to the creation of OJO SMART, a vision-based assistive technology for visually impaired people, developing ROS nodes for object, color, and text recognition.
+My expertise spans from deep learning models like Mask R-CNN to hands-on implementation in C++, Python, OpenCV, TensorFlow, and Keras. I’ve led projects that range from fundus pathology detection in collaboration with German university hospitals, to the creation of OJO SMART, a vision-based assistive technology for visually impaired people, developing ROS nodes for object, color, and text recognition.
 
 In addition to my research, I have co-authored a paper in IEEE Access on low-light color enhancement using quaternion neural networks and co-invented a patent for underactuated control systems. My leadership in the CUValles Technology Development Club resulted in innovative, sustainability-focused embedded system designs, including a patent-pending prototype for wastewater treatment in the tequila industry.
 
-Recognized for my ability to communicate complex ideas, I have served as a professor at the Monterrey Institute of Technology, where I achieved a 96% satisfaction rate teaching ROS and ROS 2 for robotics. I thrive in interdisciplinary teams, value clean and documented code, and always test edge cases.
+Recognized for my ability to communicate complex ideas, I have served as a professor at the Monterrey Institute of Technology, where I achieved a 98% satisfaction rate teaching ROS/ROS2 for robotics. I thrive in interdisciplinary teams, value clean and documented code, and always test edge cases.
 
 Fluent in both technical English and Spanish, I’m motivated, self-taught, and passionate about contributing to impactful solutions in roles such as AI/ML Engineer, Computer Vision Specialist, or Robotics and Embedded Systems Developer. I bring research to life through elegant, efficient, and human-centered engineering.
 
@@ -39,7 +39,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 
 **Languages:**
 - **Spanish:** Native • full professional proficiency.
-- **English:** Advanced B2 • fluent in reading, writing, and technical comprehension; intermediate spoken; proficient for research publications, documentation, and international collaboration. Certified by Cinvestav, Guadalajara Campus, Feb. 2023.
+- **English:** Advanced B2 • fluent in reading, writing, and technical comprehension; intermediate spoken; proficient for research publications, documentation, and international collaboration. Certified by Cinvestav, Guadalajara Campus, and Desafío Latam. [See certificate](https://cursos.desafiolatam.com/certificates/hcmv4svhi8)
 
 ## 📖 Work Experience & 🚀 Projects
 <!-- ### [Project Title 1](link-to-project1-folder-or-demo)
@@ -53,12 +53,13 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
    - 💎 **Skills:** Python · SQLAlchemy · FastAPI · Data analysis & cleaning · Time series & LSTM for route optimization · API-powered LLM for reporting
 
 ### Tecnológico de Monterrey, Guadalajara Campus
-**Role:** *Programming Professor – ROS/ROS2 & Python* | April 2024 – September 2025 | Zapopan, Jalisco, Mexico
+**Role:** *Programming Professor – ROS/ROS2 & Python* | April 2024 – Present | Zapopan, Jalisco, Mexico
    - **Description:** Led courses on ROS/ROS2 (Robot Operating System) with Python and C++ for differential drive robots, as well as a course on Python fundamentals. Achieved a 96% and 100% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
    <!-- Leading a course on programming covering Python Fundamentals, including data types and operators, lists, control structures, functions, file handling, and basic GUI development. -->
    - 💎 **Skills:** Python · C++ · ROS/ROS2 · Code debugging · Computer science · Software development · Technical instruction
    <!-- Python · Technical instruction · Computer science · Code debugging -->
-   - [See repository](https://edavila-drraccoon.github.io/repo_ros2_course/)
+   - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
+   - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
 <!-- ### Tecnológico de Monterrey, Guadalajara Campus
 **Role:** Robot Programming Professor – ROS 2 • March 2025 -- September 2025 • Zapopan, Jalisco, Mexico
@@ -133,7 +134,10 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| 
 <!-- - [name](link_to_certification) -->
 - [**Data Cleaning**](https://www.kaggle.com/learn/certification/edudavilameza/data-cleaning) • Kaggle • Jan. 16, 2025
    - **Description:** Master efficient workflows to clean messy, real-world data. Learn key techniques such as handling missing values, scaling and normalizing data, parsing dates, managing character encodings, and fixing inconsistent data entries.
-   
+
+- [**English for Developers & IT Professionals**](https://cursos.desafiolatam.com/certificates/hcmv4svhi8) • Desafío Latam • Mar 12, 2026
+   - **Description:** This professional English course uses short, effective videos to equip you with concepts ranging from the fundamentals (ABCs, pronouns, introducing yourself) to key phrases for your career path (acronym pronunciation, daily meeting vocabulary, talking about impediments). It focuses on the technical English needed by anyone seeking a career in IT.
+
 - [**Fine-Tuning for LLMs: from Beginner to Advanced**](https://www.linkedin.com/learning/certificates/2261b75490a62ea5ecab557d71aa6983cba8f455657bf8ff744ee62bd0b67613) • LinkedIn • Oct. 26, 2024
    - **Description:** Master LLM optimization with FLAN-T5, covering architecture, prompt engineering, and fine-tuning techniques like LoRA. Includes practical projects in sentiment analysis, summarization, and Q&A.
 
@@ -167,7 +171,7 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| 
 - [**Python (Basic)**](https://www.hackerrank.com/certificates/2dac4930dd09) • HackerRank • Dec. 19, 2024
    - **Description:** Certification test covering scalar types, operators, control flow, strings, collections, iteration, modularity, objects, types, and classes.
 
-- [**R for Data Science**](https://www.hackerrank.com/certificates/2dac4930dd09) • Cognitive Class • Mar. 5, 2025
+- [**R for Data Science**](https://www.hackerrank.com/certificates/2dac4930dd09) • Cognitive Class & IBM • Mar. 5, 2025
    - **Description:** Learn core skills in R programming with hands-on applications. Learned about lists, matrices, arrays, and data frames, along with understanding R syntax, variable assignment, and vector operations. Explore conditional statements, functions, classes, and debugging, as well as reading and writing data in various formats like .csv and .txt files.
 
 - [**Robot Operating System (ROS) for Beginners (ROS Noetic, Melodic, Kinetic)**](https://www.udemy.com/certificate/UC-d296a1a6-9b5f-4eb6-a7c5-1dc71f63b10d/) • Udemy • Sep. 4, 2024
@@ -175,6 +179,9 @@ August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| 
    
 - [**SQL (Basic)**](https://www.hackerrank.com/certificates/b39fcb6de071) • HackerRank • Jan 6, 2025
    - **Description:** Certification test covering basic SQL queries, relationships, and aggregators.
+
+- [**Statistics**](https://courses.cognitiveclass.ai/certificates/d4f37033a8ef44f9872fe887e46597d4) • Cognitive Class & IBM • Mar 4, 2026
+   - **Description:** Understanding of descriptive statistics, normal distribution, standard deviation, variance, correlation, and best practices for data visualization.
 
 - [**Tensorflow-Keras Bootcamp**](https://courses.opencv.org/certificates/aae04f69482a44eeacdbd9e24ae73168) • OpenCV University • Oct. 11, 2024
    - **Description:** Learn to build and train neural networks. Master Multi-Layer Perceptrons (MLP) and Convolutional Neural Networks (CNN) for image classification and segmentation. Topics include training fundamentals, transfer learning, fine-tuning, and object detection, along with practical examples like MNIST, CIFAR-10, and using pre-trained ImageNet models.
