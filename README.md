@@ -48,13 +48,13 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Key Features**: [Bullet points of achievements or technologies used].
 - **Technologies**: [List tools/frameworks used]. -->
 
-### Geovoy, Busmen Group
-**Role:** *Mathematical Analyst in Information Technologies* | September 2025 – Present | Tlajomulco de Zúñiga, Jalisco, Mexico
+### Mathematical Analyst in Information Technologies
+September 2025 – Present | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Jalisco, Mexico
    - **Description:** Applying advanced mathematical and ML methods for data analysis, predictive modeling, and algorithm design to enhance decision-making and technological eﬀiciency. Collaborating with development teams to integrate models into software solutions, primarily for geolocation applications and inventory management.
    - 💎 **Skills:** Python · SQLAlchemy · FastAPI · Data analysis & cleaning · Time series & LSTM for route optimization · API-powered LLM for reporting
 
-### Tecnológico de Monterrey, Guadalajara Campus
-**Role:** *Programming Professor – ROS/ROS2 & Python* | April 2024 – Present | Zapopan, Jalisco, Mexico
+### Programming Professor – ROS/ROS2 & Python
+April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** Leading courses on ROS/ROS2 (Robot Operating System) with Python and C++ for differential drive robots, as well as a course on Python fundamentals. Achieved a 96% and 100% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
    <!-- Leading a course on programming covering Python Fundamentals, including data types and operators, lists, control structures, functions, file handling, and basic GUI development. -->
    - 💎 **Skills:** C++ · Python · ROS/ROS2 · Code debugging · Computer science · Software development · Technical instruction
@@ -74,28 +74,28 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
    - 💎 **Skills:** C++ · Python · ROS · Technical instruction · Computer science · Code debugging -->
    <!-- - [Projects Folder](https://edavila-drraccoon.github.io/repo_ros2_course/) -->
 
-### Recognition of Fundus Pathologies – Medical Image Segmentation
-**Role:** *AI/ML Engineer* | May 2021 – July 2024 | Zapopan, Jalisco, Mexico
+### AI/ML Research Engineer
+May 2021 – July 2024 | *Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
   - **Description:** Part of an international project with University Eye Hospitals from Germany, focusing on deep learning for recognizing and quantifying fundus pathologies in medical images using instance segmentation. This involved the full AI/ML lifecycle management, from data preprocessing and augmentation to model training and validation, using a Mask R-CNN model with TensorFlow and Keras. Visualization techniques for evaluation included confusion matrices and precision-recall curves.
   - 💎 **Skills:** Mask R-CNN · TensorFlow · Keras · Data augmentation · Data visualization
 
-### Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device
-**Role:** *Computer Vision & ROS Developer* | December 2019 – October 2023 | Zapopan, Jalisco, Mexico
+### Computer Vision & ROS Developer
+December 2019 – October 2023 | *Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
   - **Description:** Collaborated on the development of OJO SMART, a modular assistive visual navigation device designed to enhance safety and independence for users with visual impairments in daily environments. My role focused on building ROS nodes in C++ and Python for core functionalities, including 1) **color recognition** using semantic segmentation and clustering techniques with OpenCV, 2) **detection and classification of civil protection signs** using Haar cascades and CNNs using OpenCV and TensorFlow for C++, 3) **currency recognition preprocessing** for MXN, USD, and EUR banknotes with YOLOv3, and 4) **text detection and extraction** using classical OpenCV and OCR techniques.
   - 💎 **Skills:** ROS · OpenCV · TensorFlow · C++ · Python · OCR
 
-### Cinvestav, Guadalajara Campus
-**Role:** *Graduate Teaching Assistant* – Computer Vision and AI/ML | September – December 2022 | Zapopan, Jalisco, Mexico
+### Graduate Teaching Assistant – Computer Vision and AI/ML
+September – December 2022 | *Cinvestav, Guadalajara Campus* | | Zapopan, Jalisco, Mexico
    - **Description:** Assisted in a graduate-level course on Computer Vision and Artificial Intelligence, focusing on artificial neural networks, convolutional networks, and deep learning. Provided support to master’s and PhD students in programming neural network models in MATLAB and Python using libraries such as TensorFlow, NumPy, OpenCV, and Matplotlib.
    - 💎 **Skills:** Python · TensorFlow · OpenCV · MATLAB · Problem solving · Code debugging
 
-### CUValles Technology Development Club – Sustainability & Automation Prototypes
-**Role:** *Lead Embedded Developer* | July 2016 – May 2017 | Zapopan, Jalisco, Mexico
+### Lead Embedded Developer
+July 2016 – May 2017 | *CUValles Technology Development Club – Sustainability & Automation Prototypes* | Zapopan, Jalisco, Mexico
   - **Description:** Served as leader of a student tech club at CUValles, overseeing mechatronic and electronic projects. Led workshops on embedded systems, guiding students in developing innovative systems, including patent-pending prototypes for control theory and environmental sustainability, such as wastewater treatment and automated waste separation in tequila production.
   - 💎 **Skills:** Embedded Systems · Signal Processing · Leadership · Prototyping · Patents
 
-### CUValles, University of Guadalajara
-**Role:** *PIC Workshop advisor – PIC Microcontroller Programming* | August – December 2016 | Ameca, Jalisco, Mexico
+### PIC Workshop advisor – PIC Microcontroller Programming
+August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisco, Mexico
    - **Description:** Conducted workshops on basic and advanced PIC microcontroller programming in C (XC8) using MPLAB, guiding Bachelor students in circuit prototyping and debugging in both real and simulated environments.
    - 💎 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
 
