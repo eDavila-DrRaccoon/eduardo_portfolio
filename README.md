@@ -106,11 +106,13 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
    - 💎 **Skills:** Science Communication · Research · Mask R-CNN · Medical image analysis · AI/ML lifecycle
+   - [Download thesis (PDF)](./EduardoDavila_PhDThesis_comp.pdf)
 
 ### M.Sc. in Electrical Engineering — AI/ANNs
 September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system.
    - 💎 **Skills:** Science Communication · Research · AI/ANNs · Robotics · Control theory
+   - [Download thesis (PDF)](./EduardoDavila_MScThesis.pdf)
 
 ### B.Eng. in Mechatronics — Embedded Systems
 August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| Ameca, Jalisco, Mexico
