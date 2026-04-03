@@ -56,23 +56,9 @@ September 2025 – Present | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Ja
 ### Programming Professor – ROS/ROS2 & Python
 April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** Leading courses on ROS/ROS2 (Robot Operating System) with Python and C++ for differential drive robots, as well as a course on Python fundamentals. Achieved a 96% and 100% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
-   <!-- Leading a course on programming covering Python Fundamentals, including data types and operators, lists, control structures, functions, file handling, and basic GUI development. -->
    - 💎 **Skills:** C++ · Python · ROS/ROS2 · Code debugging · Computer science · Software development · Technical instruction
-   <!-- Python · Technical instruction · Computer science · Code debugging -->
    - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
    - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
-
-<!-- ### Tecnológico de Monterrey, Guadalajara Campus
-**Role:** Robot Programming Professor – ROS 2 • March 2025 -- September 2025 • Zapopan, Jalisco, Mexico
-   - **Description:** Leading a ROS 2 (Robot Operating System) course for Bachelor students in Robotics and Intelligent Systems Engineering, focusing on software development for a differential drive robot running on an NVIDIA Jetson platform. Achieved a 100% satisfaction rate.
-   - 💎 **Skills:** C++ · Python · ROS 2 · Technical instruction · Computer science · Code debugging
-   - [See repository](https://edavila-drraccoon.github.io/repo_ros2_course/)
-
-### Tecnológico de Monterrey, Guadalajara Campus
-**Role:** Robot Programming Professor – ROS • April 2024 - February 2025 • Zapopan, Jalisco, Mexico
-   - **Description:** Led a ROS (Robot Operating System) course for Bachelor students in Robotics and Intelligent Systems Engineering, focusing on software development for a differential drive robot running on an NVIDIA Jetson platform. Achieved a 96% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
-   - 💎 **Skills:** C++ · Python · ROS · Technical instruction · Computer science · Code debugging -->
-   <!-- - [Projects Folder](https://edavila-drraccoon.github.io/repo_ros2_course/) -->
 
 ### AI/ML Research Engineer
 May 2021 – July 2024 | *Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
