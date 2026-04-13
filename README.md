@@ -26,17 +26,25 @@ Fluent in both technical English and Spanish, I’m motivated, self-taught, and 
 **Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
 
 **Technical Skills:**
-- **Operating systems:** Linux (Ubuntu), Windows
-- **Programming languages:** Python, C++, SQL, MATLAB, MPLAB (XC8), Arduino
-- **Libraries and frameworks:**
-    - (C++ and Python): OpenCV, TensorFlow, ROS & ROS 2
-    - (Python): FastAPI, JSON, Keras, Matplotlib, NumPy, Pandas, PIL, Scikit-learn, Seaborn, SQLAlchemy, Tkinter
+- **AI/ML:** Computer Vision, Deep Learning, CNNs, LSTM, Time Series, Image Segmentation (Mask R-CNN), Model Optimization
+- **Programming languages:** Python, C++, SQL, Bash, MATLAB, MPLAB (XC8), Arduino
+- **Frameworks & Libraries:**
+   - **C++ and Python:** OpenCV, TensorFlow/Keras
+   - **Python:** Scikit-learn, Pandas, Matplotlib, Seaborn, NumPy, JSON, Tkinter
+   - **Deployment & Backend:** FastAPI, SQLAlchemy
+   - **Robotics:** ROS/ROS2 with C++ and Python
 - **Development tools:** VS Code, Jupyter Notebook, Git, GitHub, GitLab
 - **Embedded system tools:** SOLIDWORKS, PROTEUS, LabVIEW
-- **Document preparation and office tools:** LaTeX, Markdown, MS Office, Dia (diagram editor)
+- **Operating systems:** Linux (Ubuntu), Windows
+- **Document preparation and office tools:** LaTeX, Markdown, MediaWiki, MS Office, Dia (diagram editor)
 
 **Soft Skills:**
 Self-taught • Goal-oriented • Proactive • Teamwork • Communication • Positive attitude • Responsible • Customer Support
+
+**Core Strengths:**
+- Solving complex problems in AI/ML systems, computer vision, and ROS/ROS2-based modular architectures.
+- Communicating technical concepts effectively to cross-functional teams.
+- Collaborating with software engineers and researchers to deliver scalable solutions.
 
 **Languages:**
 - **Spanish:** Native • full professional proficiency.
@@ -48,6 +56,15 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Key Features**: [Bullet points of achievements or technologies used].
 - **Technologies**: [List tools/frameworks used]. -->
 
+### Programming Instructor – ROS/ROS2
+April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
+   - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
+    **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
+    **3)** Recognized as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
+   - 💎 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Technical instruction
+   - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
+   - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
+
 ### Mathematical Analyst in Information Technologies
 September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Jalisco, Mexico
    - **Description:** **1)** Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
@@ -55,15 +72,6 @@ September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga,
     **3)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
     **4)** Built an automated reporting tool using LLM-powered APIs to generate analytical reports and insights.
    - 💎 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
-
-### Programming Instructor – ROS/ROS2
-April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
-   - **Description:** **1)** Designed and delivered hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
-    **2)** Developed practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
-    **3)** Recognized as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
-   - 💎 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Technical instruction
-   - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
-   - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
 ### AI/ML Research Engineer – Computer Vision
 May 2021 – July 2024 | *Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
@@ -106,7 +114,7 @@ September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Ja
 ### M.Sc. in Electrical Engineering — AI/ANNs
 September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system.
-   - 💎 **Skills:** AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability \& statistics · Research · Science Communication
+   - 💎 **Skills:** AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability & statistics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_MScThesis.pdf)
 
 ### B.Eng. in Mechatronics — Embedded Systems
