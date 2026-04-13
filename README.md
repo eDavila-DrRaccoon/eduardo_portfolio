@@ -9,7 +9,7 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 - **HackerRank**: [eduardodavila94](https://www.hackerrank.com/profile/eduardodavila94)
 
 ## 📄 Download My CV
-[Download CV (PDF)](./EduardoDavila_sCV_EN_2026.pdf)
+[Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
 
 ## 👋🏽 About Me
 I am Eduardo Dávila Meza, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, specialized in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS/ROS2. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems. Whether developing instance segmentation models for medical imaging or building ROS-based assistive devices, I bring clarity, precision, and efficiency to every layer of the process.
@@ -49,26 +49,35 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Technologies**: [List tools/frameworks used]. -->
 
 ### Mathematical Analyst in Information Technologies
-September 2025 – Present | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Jalisco, Mexico
-   - **Description:** Applying advanced mathematical and ML methods for data analysis, predictive modeling, and algorithm design to enhance decision-making and technological eﬀiciency. Collaborating with development teams to integrate models into software solutions, primarily for geolocation applications and inventory management.
-   - 💎 **Skills:** Python · SQLAlchemy · FastAPI · Data analysis & cleaning · Time series & LSTM for route optimization · API-powered LLM for reporting
+September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Jalisco, Mexico
+   - **Description:** **1)** Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
+    **2)** Designed and optimized APIs using FastAPI, raw SQL, and Object-Relational Mapping (ORM) to integrate statistical models into production systems for geolocation and inventory management. 
+    **3)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
+    **4)** Built an automated reporting tool using LLM-powered APIs to generate analytical reports and insights.
+   - 💎 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
 
-### Programming Professor – ROS/ROS2 & Python
+### Programming Instructor – ROS/ROS2
 April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
-   - **Description:** Leading courses on ROS/ROS2 (Robot Operating System) with Python and C++ for differential drive robots, as well as a course on Python fundamentals. Achieved a 96% and 100% satisfaction rate, earning recognition as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
-   - 💎 **Skills:** C++ · Python · ROS/ROS2 · Code debugging · Computer science · Software development · Technical instruction
+   - **Description:** **1)** Designed and delivered hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
+    **2)** Developed practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
+    **3)** Recognized as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
+   - 💎 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Technical instruction
    - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
    - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
-### AI/ML Research Engineer
+### AI/ML Research Engineer – Computer Vision
 May 2021 – July 2024 | *Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
-  - **Description:** Part of an international project with University Eye Hospitals from Germany, focusing on deep learning for recognizing and quantifying fundus pathologies in medical images using instance segmentation. This involved the full AI/ML lifecycle management, from data preprocessing and augmentation to model training and validation, using a Mask R-CNN model with TensorFlow and Keras. Visualization techniques for evaluation included confusion matrices and precision-recall curves.
-  - 💎 **Skills:** Mask R-CNN · TensorFlow · Keras · Data augmentation · Data visualization
+  - **Description:** **1)** Developed and trained a Mask R-CNN model for medical image segmentation in collaboration with German research institutions. 
+    **2)** Implemented end-to-end ML pipelines, including data preprocessing, augmentation, training, and validation. 
+    **3)** Worked with high-resolution image datasets to improve detection and segmentation of retinal pathologies. 
+    **4)** Contributed to a research publication in computer vision and medical imaging.
+  - 💎 **Skills:** Computer Vision · Deep Learning · TensorFlow/Keras · Mask R-CNN · Image Segmentation · Data labeling, augmentation, and visualization
 
 ### Computer Vision & ROS Developer
 December 2019 – October 2023 | *Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
-  - **Description:** Collaborated on the development of OJO SMART, a modular assistive visual navigation device designed to enhance safety and independence for users with visual impairments in daily environments. My role focused on building ROS nodes in C++ and Python for core functionalities, including 1) **color recognition** using semantic segmentation and clustering techniques with OpenCV, 2) **detection and classification of civil protection signs** using Haar cascades and CNNs using OpenCV and TensorFlow for C++, 3) **currency recognition preprocessing** for MXN, USD, and EUR banknotes with YOLOv3, and 4) **text detection and extraction** using classical OpenCV and OCR techniques.
-  - 💎 **Skills:** ROS · OpenCV · TensorFlow · C++ · Python · OCR
+  - **Description:** **1)** Developed ROS-based modules for real-time recognition of colors, objects, signs, banknotes, and text using computer vision techniques. 
+   **2)** Contributed to the integration of multiple perception systems into an assistive navigation device for visually impaired users.
+  - 💎 **Skills:** Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow
 
 ### Graduate Teaching Assistant – Computer Vision and AI/ML
 September – December 2022 | *Cinvestav, Guadalajara Campus* | | Zapopan, Jalisco, Mexico
@@ -91,32 +100,32 @@ August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisc
 ### Ph.D. in Science in Electrical Engineering — AI/ML
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
-   - 💎 **Skills:** Science Communication · Research · Mask R-CNN · Medical image analysis · AI/ML lifecycle
+   - 💎 **Skills:** AI/ML lifecycle · Computer vision / Image analysis · Deep Learnin · CNN/NN · Robotics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_PhDThesis_comp.pdf)
 
 ### M.Sc. in Electrical Engineering — AI/ANNs
 September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system.
-   - 💎 **Skills:** Science Communication · Research · AI/ANNs · Robotics · Control theory
+   - 💎 **Skills:** AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability \& statistics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_MScThesis.pdf)
 
 ### B.Eng. in Mechatronics — Embedded Systems
 August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| Ameca, Jalisco, Mexico
-   - **Social service & Professional Internship:** Assistance and development of electronic and mechatronic projects in the electronics and telecommunications laboratory.
-   - 💎 **Skills:** Embedded systems · Programming · Digital electronics · HMI · Control theory
+   - **Social service & Professional Internship:** Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.
+   - 💎 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
 
 
 ## 📚 Publications and Patents
 <!-- - [Title of Paper 1](link-to-publication) -->
 <!-- - [Patent Title](link-to-patent) -->
 - Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented in Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • https://iovs.arvojournals.org/article.aspx?articleid=2794864 
-    - 💎 **Skills:** Mask R-CNN · Image analysis · ML lifecycle · Feature extraction · Research
+    - 💎 **Skills:** AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research
 
 - Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • in IEEE Access • vol. 11 • pp. 108257-108280 • Doi: https://www.doi.org/10.1109/ACCESS.2023.3312234 
-    - 💎 **Skills:** AI/ANNs · Image color analysis · Quaternion algebras · Color spaces · EKF
+    - 💎 **Skills:** AI/ANN lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
 
 - 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
-    - 💎 **Skills:** Embedded systems · Control theory · PICs · SPI · Power and digital electronics
+    - 💎 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
 
 
 ## 📜 Certifications
