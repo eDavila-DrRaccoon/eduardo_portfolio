@@ -12,15 +12,17 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 [Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
 
 ## 👋🏽 About Me
-I am Eduardo Dávila Meza, an Engineer, Researcher, and Educator with a Ph.D. in Science in Electrical Engineering, specialized in Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, and ROS/ROS2. I bridge academic depth with real-world application, solving complex problems in image processing, robotics, and AI-driven systems. Whether developing instance segmentation models for medical imaging or building ROS-based assistive devices, I bring clarity, precision, and efficiency to every layer of the process.
+I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **edge (robotics) systems using ROS/ROS2**, designed for real-world deployment.
 
-My expertise spans from deep learning models like Mask R-CNN to hands-on implementation in C++, Python, OpenCV, TensorFlow, and Keras. I’ve led projects that range from fundus pathology detection in collaboration with German university hospitals, to the creation of OJO SMART, a vision-based assistive technology for visually impaired people, developing ROS nodes for object, color, and text recognition.
+My experience includes developing machine learning models, designing FastAPI-based services to integrate statistical and predictive models into production systems, and building LLM-powered tools for automated reporting and analytics. I have also worked extensively in computer vision, including medical image segmentation using Mask R-CNN and real-time perception systems for robotics using ROS/ROS2.
 
-In addition to my research, I have co-authored a paper in IEEE Access on low-light color enhancement using quaternion neural networks and co-invented a patent for underactuated control systems. My leadership in the CUValles Technology Development Club resulted in innovative, sustainability-focused embedded system designs, including a patent-pending prototype for wastewater treatment in the tequila industry.
+I have contributed to projects ranging from fundus pathology detection in collaboration with German university hospitals to the development of OJO SMART, a vision-based assistive system for visually impaired users. In this project, I integrated perception modules using ROS for object, text, and scene recognition. My work combines strong theoretical foundations with practical engineering, focusing on scalable, efficient, and well-documented solutions.
 
-Recognized for my ability to communicate complex ideas, I have served as a professor at the Monterrey Institute of Technology, where I achieved a 98% satisfaction rate teaching ROS/ROS2 for robotics. I thrive in interdisciplinary teams, value clean and documented code, and always test edge cases.
+My background includes machine learning, computer vision, and embedded systems, with hands-on experience in **Python**, **C++**, **TensorFlow/Keras**, **Scikit-learn**, **OpenCV**, and backend development. I am particularly interested in building efficient and reliable AI systems that operate in real-world and resource-constrained environments.
 
-Fluent in both technical English and Spanish, I’m motivated, self-taught, and passionate about contributing to impactful solutions in roles such as AI/ML Engineer, Computer Vision Specialist, or Robotics and Embedded Systems Developer. I bring research to life through elegant, efficient, and human-centered engineering.
+In addition to my engineering work, I have designed and delivered hands-on courses in **ROS/ROS2** using **C++** and **Python**, focused on differential drive robots. I have also developed practical repositories and lecture materials covering the development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. I have been recognized as a top-rated instructor, strengthening my ability to communicate complex ideas and collaborate effectively across teams.
+
+I am particularly interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Robotics/Edge AI Engineer, where I can contribute to building impactful, production-ready AI systems.
 
 ## 🛠️ Skills and Tools
 **Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
