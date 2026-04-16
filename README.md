@@ -18,7 +18,7 @@ My experience includes developing machine learning models, designing FastAPI-bas
 
 I have contributed to projects ranging from fundus pathology detection in collaboration with German university hospitals to the development of OJO SMART, a vision-based assistive system for visually impaired users. In this project, I integrated perception modules using ROS for object, text, and scene recognition. My work combines strong theoretical foundations with practical engineering, focusing on scalable, efficient, and well-documented solutions.
 
-My background includes machine learning, computer vision, and embedded systems, with hands-on experience in **Python**, **C++**, **TensorFlow/Keras**, **Scikit-learn**, **OpenCV**, and backend development. I am particularly interested in building efficient and reliable AI systems that operate in real-world and resource-constrained environments.
+My background includes machine learning, computer vision, and embedded systems, with hands-on experience in **Python**, **C++**, **TensorFlow/Keras**, **Scikit-learn**, *Pa*, **OpenCV**, and backend development. I am particularly interested in building efficient and reliable AI systems that operate in real-world and resource-constrained environments.
 
 In addition to my engineering work, I have designed and delivered hands-on courses in **ROS/ROS2** using **C++** and **Python**, focused on differential drive robots. I have also developed practical repositories and lecture materials covering the development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. I have been recognized as a top-rated instructor, strengthening my ability to communicate complex ideas and collaborate effectively across teams.
 
