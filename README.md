@@ -76,7 +76,7 @@ September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga,
    - 💎 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
 
 ### AI/ML Research Engineer – Computer Vision
-May 2021 – July 2024 | *Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
+May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
   - **Description:** **1)** Developed and trained a Mask R-CNN model for medical image segmentation in collaboration with German research institutions. 
     **2)** Implemented end-to-end ML pipelines, including data preprocessing, augmentation, training, and validation. 
     **3)** Worked with high-resolution image datasets to improve detection and segmentation of retinal pathologies. 
@@ -84,7 +84,7 @@ May 2021 – July 2024 | *Recognition of Fundus Pathologies – Medical Image Se
   - 💎 **Skills:** Computer Vision · Deep Learning · TensorFlow/Keras · Mask R-CNN · Image Segmentation · Data labeling, augmentation, and visualization
 
 ### Computer Vision & ROS Developer
-December 2019 – October 2023 | *Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
+December 2019 – October 2023 | *Cinvestav, Guadalajara: Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
   - **Description:** **1)** Developed ROS-based modules for real-time recognition of colors, objects, signs, banknotes, and text using computer vision techniques. 
    **2)** Contributed to the integration of multiple perception systems into an assistive navigation device for visually impaired users.
   - 💎 **Skills:** Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow
@@ -95,7 +95,7 @@ September – December 2022 | *Cinvestav, Guadalajara Campus* | | Zapopan, Jalis
    - 💎 **Skills:** Python · TensorFlow · OpenCV · MATLAB · Problem solving · Code debugging
 
 ### Lead Embedded Developer
-July 2016 – May 2017 | *CUValles Technology Development Club – Sustainability & Automation Prototypes* | Zapopan, Jalisco, Mexico
+July 2016 – May 2017 | *CUValles, University of Guadalajara: CUValles Technology Development Club – Sustainability & Automation Prototypes* | Zapopan, Jalisco, Mexico
   - **Description:** Served as leader of a student tech club at CUValles, overseeing mechatronic and electronic projects. Led workshops on embedded systems, guiding students in developing innovative systems, including patent-pending prototypes for control theory and environmental sustainability, such as wastewater treatment and automated waste separation in tequila production.
   - 💎 **Skills:** Embedded Systems · Signal Processing · Leadership · Prototyping · Patents
 
