@@ -37,7 +37,7 @@ I am particularly interested in roles such as AI/ML Engineer, Computer Vision En
    - **Robotics:** ROS/ROS2 with C++ and Python
 - **Development tools:** VS Code, Jupyter Notebook, Git, GitHub, GitLab
 - **Embedded system tools:** SOLIDWORKS, PROTEUS, LabVIEW
-- **Operating systems:** Linux (Ubuntu), Windows
+- **Operating systems:** Ubuntu (Linux), Windows
 - **Document preparation and office tools:** LaTeX, Markdown, MediaWiki, MS Office, Dia (diagram editor)
 
 **Soft Skills:**
@@ -58,84 +58,84 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Key Features**: [Bullet points of achievements or technologies used].
 - **Technologies**: [List tools/frameworks used]. -->
 
-### Programming Instructor – ROS/ROS2 (Melodic Morenia, Foxy Fitzroy, and Humble Hawksbill)
+### Programming Instructor – ROS/ROS2
 April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
     **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
     **3)** Recognized as a top-rated professor. [See recognition](https://www.linkedin.com/feed/update/urn:li:activity:7249158255002714113/)
-   - 💎 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Technical instruction
+   - 🧩 **Skills:** C++ · Python · ROS/ROS2 · Bash · Computer Vision · Robotics · Technical instruction
    - [See repository 2026](https://edavila-drraccoon.github.io/repo_ros2_course/)
    - [See repository 2025](https://edavila-drraccoon.github.io/repo_ros2_course_2025/)
 
 ### Mathematical Analyst in Information Technologies
 September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga, Jalisco, Mexico
-   - **Description:** **1)** Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
-    **2)** Designed and optimized APIs using FastAPI, raw SQL, and Object-Relational Mapping (ORM) to integrate statistical models into production systems for geolocation and inventory management. 
-    **3)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
-    **4)** Built an automated reporting tool using LLM-powered APIs to generate analytical reports and insights.
-   - 💎 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
+   - **Description:** **1)** Built an automated reporting tool using LLM-powered APIs to generate analytical reports and insights.
+   **2)** Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
+    **3)** Designed and optimized APIs using FastAPI, raw SQL, and Object-Relational Mapping (ORM) to integrate statistical models into production systems for geolocation and inventory management. 
+    **4)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
+   - 🧩 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
 
-### AI/ML Research Engineer – Computer Vision
+### AI/DL Research Engineer – Computer Vision
 May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
-  - **Description:** **1)** Developed and trained a Mask R-CNN model for medical image segmentation in collaboration with German research institutions. 
-    **2)** Implemented end-to-end ML pipelines, including data preprocessing, augmentation, training, and validation. 
-    **3)** Worked with high-resolution image datasets to improve detection and segmentation of retinal pathologies. 
-    **4)** Contributed to a research publication in computer vision and medical imaging.
-  - 💎 **Skills:** Computer Vision · Deep Learning · TensorFlow/Keras · Mask R-CNN · Image Segmentation · Data labeling, augmentation, and visualization
+  - **Description:** **1)** Developed a deep learning model for medical image analysis, in collaboration with German research institutions, to support clinical decision-making, focusing on segmentation and quantification of retinal pathologies. 
+  **2)** Applied data preprocessing, augmentation, feature extraction, and model validation techniques to ensure robustness and reliability in healthcare-related datasets.
+  **3)** Worked with high-resolution image datasets to improve the detection and segmentation of retinal pathologies. 
+  **4)** Contributed to a research publication in computer vision and medical imaging.
+  - 🧩 **Skills:** Computer Vision · Deep Learning · TensorFlow/Keras · Mask R-CNN · Image Segmentation · Data labeling, augmentation, and visualization
 
-### Computer Vision & ROS Developer (Kinetic Kame)
+### Computer Vision & ROS Developer
 December 2019 – October 2023 | *Cinvestav, Guadalajara: Intelligent Visual Guide System (OJO SMART) – Modular Assistive Navigation Device* | Zapopan, Jalisco, Mexico
   - **Description:** **1)** Developed ROS-based modules for real-time recognition of colors, objects, signs, banknotes, and text using computer vision techniques. 
    **2)** Contributed to the integration of multiple perception systems into an assistive navigation device for visually impaired users.
-  - 💎 **Skills:** Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow
+  - 🧩 **Skills:** Computer Vision · C++ · Python · ROS · Tesseract OCR · OpenCV · TensorFlow
 
 ### Graduate Teaching Assistant – Computer Vision and AI/ML
 September – December 2022 | *Cinvestav, Guadalajara Campus* | | Zapopan, Jalisco, Mexico
    - **Description:** Assisted in a graduate-level course on Computer Vision and Artificial Intelligence, focusing on artificial neural networks, convolutional networks, and deep learning. Provided support to master’s and PhD students in programming neural network models in MATLAB and Python using libraries such as TensorFlow, NumPy, OpenCV, and Matplotlib.
-   - 💎 **Skills:** Python · TensorFlow · OpenCV · MATLAB · Problem solving · Code debugging
+   - 🧩 **Skills:** Python · TensorFlow · OpenCV · MATLAB · Problem solving · Code debugging
 
 ### Lead Embedded Developer
 July 2016 – May 2017 | *CUValles, University of Guadalajara: CUValles Technology Development Club – Sustainability & Automation Prototypes* | Zapopan, Jalisco, Mexico
   - **Description:** Served as leader of a student tech club at CUValles, overseeing mechatronic and electronic projects. Led workshops on embedded systems, guiding students in developing innovative systems, including patent-pending prototypes for control theory and environmental sustainability, such as wastewater treatment and automated waste separation in tequila production.
-  - 💎 **Skills:** Embedded Systems · Signal Processing · Leadership · Prototyping · Patents
+  - 🧩 **Skills:** Embedded Systems · Signal Processing · Leadership · Prototyping · Patents
 
 ### PIC Workshop advisor – PIC Microcontroller Programming
 August – December 2016 | *CUValles, University of Guadalajara* | Ameca, Jalisco, Mexico
    - **Description:** Conducted workshops on basic and advanced PIC microcontroller programming in C (XC8) using MPLAB, guiding Bachelor students in circuit prototyping and debugging in both real and simulated environments.
-   - 💎 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
+   - 🧩 **Skills:** MPLAB · I2C & SPI · Technical instruction · Code debugging · PROTEUS
 
 <!-- For more, check out the [Projects Folder](link-to-projects-folder). -->
 ## 🎓 Academic Degrees:
 
-### Ph.D. in Science in Electrical Engineering — AI/ML
+### Ph.D. in Science in Electrical Engineering — AI/Deep Learning
 September 2, 2019 – May 17, 2024 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Deep learning for recognition and quantification of fundus pathologies using instance segmentation, and quaternion neural networks for low-light image enhancement.
-   - 💎 **Skills:** AI/ML lifecycle · Computer vision / Image analysis · Deep Learnin · CNN/NN · Robotics · Research · Science Communication
+   - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Image analysis · Deep Learnin · CNN/NN · Robotics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_PhDThesis_comp.pdf)
 
-### M.Sc. in Electrical Engineering — AI/ANNs
+### M.Sc. in Electrical Engineering — AI/Machine Learning
 September 4, 2017 – August 2, 2019 | Cinvestav, Guadalajara Campus | Zapopan, Jalisco, Mexico
    - **Thesis:** Quaternion neural networks for low-light image enhancement, and identification of an electromechanical system.
-   - 💎 **Skills:** AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability & statistics · Research · Science Communication
+   - 🧩 **Skills:** AI/ANNs · Computer vision · Linear algebra · Control theory · Robotics · Probability & statistics · Research · Science Communication
    - [Download thesis (PDF)](./EduardoDavila_MScThesis.pdf)
 
 ### B.Eng. in Mechatronics — Embedded Systems
 August 1, 2012 – December 16, 2016 | CUValles, University of Guadalajara •| Ameca, Jalisco, Mexico
    - **Social service & Professional Internship:** Developed embedded and mechatronic projects in an electronics and telecommunications laboratory.
-   - 💎 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
+   - 🧩 **Skills:** Embedded systems · Linear algebra · Calculus · Control theory · Digital and power electronics · HMI · PICs & Arduino
 
 
 ## 📚 Publications and Patents
 <!-- - [Title of Paper 1](link-to-publication) -->
 <!-- - [Patent Title](link-to-patent) -->
 - Jun. 2024 • Meeting Abstract • Co-author on "Deep-learning based quantification of RPE65-mutation inherited retinal degeneration from wide-angle images – novel biomarkers for natural history and interventional studies" • presented in Investigative Ophthalmology & Visual Science • vol. 65(7) • p. 1392 • https://iovs.arvojournals.org/article.aspx?articleid=2794864 
-    - 💎 **Skills:** AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research
+    - 🧩 **Skills:** AI/ML lifecycle · Computer vision / Medical image analysis · Data visualization · Mask R-CNN · Feature extraction · Research
 
 - Sep. 2023 • Journal Article • Co-author on "Quaternion and Split Quaternion Neural Networks for Low-Light Color Image Enhancement" • in IEEE Access • vol. 11 • pp. 108257-108280 • Doi: https://www.doi.org/10.1109/ACCESS.2023.3312234 
-    - 💎 **Skills:** AI/ANN lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
+    - 🧩 **Skills:** AI/ANN lifecycle · Computer vision / Image color analysis · Quaternion algebras · Color spaces · EKF
 
 - 2017 • Patent • Co-inventor on "Device for controlling underactuated two-link systems with one actuator, and method for controlling the device" • application No. MX/a/2017/016436 • filed under the Invention Support Program of the University of Guadalajara. 
-    - 💎 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
+    - 🧩 **Skills:** Embedded systems · Control theory · Digital and power electronics · PICs · SPI & I2C communication protocols
 
 
 ## 📜 Certifications
