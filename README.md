@@ -58,7 +58,7 @@ Self-taught • Goal-oriented • Proactive • Teamwork • Communication • P
 - **Key Features**: [Bullet points of achievements or technologies used].
 - **Technologies**: [List tools/frameworks used]. -->
 
-### Programming Instructor – ROS/ROS2
+### Robot Programming Instructor – ROS/ROS2
 April 2024 – Present | *Tecnológico de Monterrey, Guadalajara Campus* | Zapopan, Jalisco, Mexico
    - **Description:** **1)** Designing and delivering hands-on courses in ROS/ROS2 using C++ and Python, focused on differential drive robots. 
     **2)** Developing practical repositories and lecture notes covering the foundations of development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. 
@@ -75,7 +75,7 @@ September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga,
     **4)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
    - 🧩 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
 
-### AI/DL Research Engineer – Computer Vision
+### AI/Deep Learning Research Engineer – Computer Vision
 May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
   - **Description:** **1)** Developed a deep learning model for medical image analysis, in collaboration with German research institutions, to support clinical decision-making, focusing on segmentation and quantification of retinal pathologies. 
   **2)** Applied data preprocessing, augmentation, feature extraction, and model validation techniques to ensure robustness and reliability in healthcare-related datasets.
