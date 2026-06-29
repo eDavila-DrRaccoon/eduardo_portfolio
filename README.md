@@ -12,7 +12,7 @@ Ph.D. in Science in Electrical Engineering ܀ AI/ML · Computer Vision · Embedd
 [Download CV (PDF)](./EduardoDavila_asCV_EN_2026.pdf)
 
 ## 👋🏽 About Me
-I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **edge (robotics) systems using ROS/ROS2**, designed for real-world deployment.
+I am an Engineer with a Ph.D. in Electrical Engineering from **Cinvestav**, IPN, where I specialized in **deep learning** and **computer vision**. My work focuses on developing **AI/ML and computer vision solutions**, as well as **embedded/robotics systems using ROS/ROS2**, designed for real-world deployment.
 
 My experience includes developing machine learning models, designing FastAPI-based services to integrate statistical and predictive models into production systems, and building LLM-powered tools for automated reporting and analytics. I have also worked extensively in computer vision, including medical image segmentation using Mask R-CNN and real-time perception systems for robotics using ROS/ROS2.
 
@@ -22,7 +22,7 @@ My background includes machine learning, computer vision, and embedded systems, 
 
 In addition to my engineering work, I have designed and delivered hands-on courses in **ROS/ROS2** using **C++** and **Python**, focused on differential drive robots. I have also developed practical repositories and lecture materials covering the development, simulation, deployment, and monitoring of ROS/ROS2-based modular systems, including computer vision and autonomous navigation. I have been recognized as a top-rated instructor, strengthening my ability to communicate complex ideas and collaborate effectively across teams.
 
-I am particularly interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Robotics/Edge AI Engineer, where I can contribute to building impactful, production-ready AI systems.
+I am particularly interested in roles such as AI/ML Engineer, Computer Vision Engineer, or Embedded/Robotics AI Engineer, where I can contribute to building impactful, production-ready AI systems.
 
 ## 🛠️ Skills and Tools
 **Top skills:** Artificial intelligence / Machine Learning • Computer vision • Embedded systems • ROS/ROS2
