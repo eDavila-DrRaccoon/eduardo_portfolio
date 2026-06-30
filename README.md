@@ -73,7 +73,7 @@ September 2025 – April 2026 | *Geovoy, Busmen Group* | Tlajomulco de Zúñiga,
    **2)** Developed machine learning models for route optimization using time series analysis and LSTM architectures. 
     **3)** Designed and optimized APIs using FastAPI, raw SQL, and Object-Relational Mapping (ORM) to integrate statistical models into production systems for geolocation and inventory management. 
     **4)** Deployed a MediaWiki-based platform to standardize internal processes, code, and API documentation. 
-   - 🧩 **Skills:** Python · FastAPI · SQLAlchemy · LSTM · Time Series · APIs · Data Analysis · Bash
+   - 🧩 **Skills:** FastAPI · SQLAlchemy · Time Series Analysis · LSTM · Forecasting · Predictive Modeling · GPT-OSS-20B · Ollama · Data Analysis · Bash
 
 ### AI/Deep Learning Research Engineer – Computer Vision
 May 2021 – July 2024 | *Cinvestav, Guadalajara: Recognition of Fundus Pathologies – Medical Image Segmentation* | Zapopan, Jalisco, Mexico
